@@ -1,6 +1,7 @@
 {
   "name": "reactjs-elb",
   "version": "0.1.0",
+  "proxy": "http://demo-alb-863755373.ap-south-1.elb.amazonaws.com",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
